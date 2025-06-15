@@ -1,0 +1,209 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LambdaExp",
+            "request": "launch",
+            "mainClass": "unit3.LambdaExp",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "ThisAndSupar",
+            "request": "launch",
+            "mainClass": "telesko.ThisAndSupar",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "intro",
+            "request": "launch",
+            "mainClass": "thread.intro",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "ThrowExc",
+            "request": "launch",
+            "mainClass": "ExeptionError.ThrowExc",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "sumOfNumberoddaddevenneg",
+            "request": "launch",
+            "mainClass": "sumOfNumberoddaddevenneg",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "intro1",
+            "request": "launch",
+            "mainClass": "array1.intro1",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "Arraylist1.Arraylist",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArraylist",
+            "request": "launch",
+            "mainClass": "Arraylist1.ReverseArraylist",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "SortString",
+            "request": "launch",
+            "mainClass": "Arraylist1.SortString",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "Arraylist1.demo",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "sortArraylist",
+            "request": "launch",
+            "mainClass": "Arraylist1.sortArraylist",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Dynamic2DArray",
+            "request": "launch",
+            "mainClass": "array2D.Dynamic2DArray",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Multiplyof2matrix",
+            "request": "launch",
+            "mainClass": "array2D.Multiplyof2matrix",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "PascalMatrix",
+            "request": "launch",
+            "mainClass": "array2D.PascalMatrix",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "PrifixSumMatrix",
+            "request": "launch",
+            "mainClass": "array2D.PrifixSumMatrix",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "RotedMatrix90deg",
+            "request": "launch",
+            "mainClass": "array2D.RotedMatrix90deg",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "SpairalMatrixTravel",
+            "request": "launch",
+            "mainClass": "array2D.SpairalMatrixTravel",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "SparialTekingMatrix",
+            "request": "launch",
+            "mainClass": "array2D.SparialTekingMatrix",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "SumOfMatrix",
+            "request": "launch",
+            "mainClass": "array2D.SumOfMatrix",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "TranposeOfMatrix",
+            "request": "launch",
+            "mainClass": "array2D.TranposeOfMatrix",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "intro",
+            "request": "launch",
+            "mainClass": "array2D.intro",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "binaryToDecimal",
+            "request": "launch",
+            "mainClass": "binaryToDecimal",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "person1",
+            "request": "launch",
+            "mainClass": "person1",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "string.Demo",
+            "projectName": "Java_d4278e78"
+        }
+    ]
+}
