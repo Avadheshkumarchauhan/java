@@ -8,7 +8,7 @@ class Fectorial{
      * SP=O(n)
      */
     public long fectPrint(int n){
-        if(n==0){
+        if(n<0){
             System.out.print("\b\b= ");
             return 1;
         }
