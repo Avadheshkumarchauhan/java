@@ -76,7 +76,7 @@ public class BubbleSort {
         }
     }
     /*
-     This is a worst case 
+     This is a best case 
      and Sort in Decending order 
     */
     public static void bubbleShortDecBest(int []arr){
