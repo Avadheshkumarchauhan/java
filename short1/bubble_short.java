@@ -1,4 +1,4 @@
-
+package short1;
 public class bubble_short{
     static void short_inc(int []x){
         int n = x.length;

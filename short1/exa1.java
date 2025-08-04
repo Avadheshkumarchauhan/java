@@ -1,3 +1,4 @@
+package short1;
 public class exa1 {
 
     static void asc(int []m){

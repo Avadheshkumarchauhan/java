@@ -1,3 +1,4 @@
+package short1;
 public class short_lexico_string {
     static void lexico(String[]name){
         int i,j,x=name.length;

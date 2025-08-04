@@ -1,4 +1,4 @@
-//package short;
+package short1;
 
 public class selection_short {
     static void short_inc(int []x){

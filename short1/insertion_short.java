@@ -1,3 +1,4 @@
+package short1;
 public class insertion_short {
     static void short_inc(int []m){
         int l=m.length,i,j;
